@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lesiba-J-Hlaka
-- 👀 I’m interested in programming as a whole😁 
+- 👀 I’m interested in programming👨‍💻 as a whole😁 
 - 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on SQL projects
+-  I’m looking to collaborate on SQL projects
 - 📫 you can reach me at
   -karabohlaka04@gmail.com
 
