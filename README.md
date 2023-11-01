@@ -1,5 +1,7 @@
 # GitHub Repository Overview 🚀
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lesiba-J-Hlaka&theme=dark&show_icons=true)
 ## Skills 💻
 - **Programming Languages:** Python 3, Java 🐍☕
 - **Data Analysis Tools:** Microsoft Power BI, Microsoft Suite 📊📈
